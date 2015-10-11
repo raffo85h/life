@@ -14,23 +14,23 @@
 - 14/07/2010 Graduation Master Maths in Bourdeaux
 
 #Cities
-- 02/01/2015-? Moved to Portsmouth
 - 19/09/2014-01/01/2015 Moved to Italy 
 - 09/2004-03/2008 Napoli
 - 03/2008-09/2008 Battipaglia
 - 09/2008-07/2009 Padova
 - 08/2009-07/2010 Leiden
+- 02/01/2015 Moved to Portsmouth
 
 #Job
 - 29/11/2014 Accepted Path Intelligence job offer
 - 05/01/2015-~ Started job at [Path Intelligence](http://www.pathintelligence.com "Path Intelligence")
 
 #Portsmouth Life
-- 19/10/2015-28/07/2015 Summer's holiday in Italy
 - 18/10/2015 Matt's wedding in Poole
-- 10/10/2015 Woolston beer festival
-- 16/05/2015 Portsmouth beer festival
+- 19/10/2015-28/07/2015 Summer's holiday in Italy
 - 05/05/2015 Southampton beer festival
+- 16/05/2015 Portsmouth beer festival
+- 10/10/2015 Woolston beer festival
 
 #Personal
 - 05/05/2001 That day the world was happy
