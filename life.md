@@ -2,6 +2,7 @@
 ====================
 
 - 12/12/1985 Born
+- 13/12/1985 Busy being a baby not many memories..
 
 #Schools
 - 09/1991-07/1996 Scuola elementare "E. De Amicis"
@@ -12,6 +13,9 @@
 - 10/2004-03/2008 Bachelor Mathematics Napoli
 - 28/03/2008 Graduation in Mathematics 110/110 cum laude in Napoli
 - 14/07/2010 Graduation Master Maths in Bourdeaux
+
+#Religion
+- 06/07/2012 excommunicated lata sententia
 
 #Cities
 - 19/09/2014-01/01/2015 Moved to Italy 
