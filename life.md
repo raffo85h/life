@@ -23,7 +23,7 @@
 
 #Job
 - 29/11/2014 Accepted Path Intelligence job offer
-- 05/01/2015-~ Started job at [company](http://www.pathintelligence.com "Path Intelligence")
+- 05/01/2015-~ Started job at [Path Intelligence](http://www.pathintelligence.com "Path Intelligence")
 
 #Portsmouth Life
 - 19/10/2015-28/07/2015 Summer's holiday in Italy
