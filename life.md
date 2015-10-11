@@ -2,7 +2,7 @@
 ====================
 
 - 12/12/1985 Born
-- 13/12/1985-09/1991 Busy being a baby not many memories..
+- 13/12/1985-01/09/1991 Busy being a baby not many memories..
 
 #Schools
 - 09/1991-07/1996 Scuola elementare "E. De Amicis"
