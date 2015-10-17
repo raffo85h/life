@@ -10,20 +10,43 @@
 - 09/1999-07/2004 Liceo Scientifico "E. Medi"
 
 #Universities
-- 10/2004-03/2008 Bachelor Mathematics Napoli
-- 28/03/2008 Graduation in Mathematics 110/110 cum laude in Napoli
-- 14/07/2010 Graduation Master Maths in Bourdeaux
+- 10/2004-03/2008 Bachelor Maths Napoli
+- 26/03/2008 Graduation in Maths 110/110 cum laude - Napoli
+- ~09/2008-~07/2009 First year Master Maths Padova
+- ~09/2009-~07/2010 Second year Master Maths Leiden
+- 14/07/2010 Graduation Master Maths - Bourdeaux
+- 28/03/2014 PhD viva
+- 21/07/2014 PhD graduation - Southampton
 
+#Journey Uni
+- 20/06/2009-29/06/2009 Israel
+- ~07/2010 Bourdeaux
+- ~06/2011 Aberdeen (talk)
+- ~07/2011 Milano
+- ~07/2012 Lausanne (talk)
+- ~04/2013 London
+- ~07/2013 Manchester (talk)
+- ~08/2013 St.Andrews (talk)
+- ~09/2013 Cambridge
+
+<!-- #Journey
+- Croatia
+- London
+- Malaga
+- Hammamet
+ -->
 #Religion
 - 06/07/2012 excommunicated lata sententia
 
 #Cities
-- 19/09/2014-01/01/2015 Moved to Italy 
+- 19/09/2014-01/01/2015 Italy 
 - 09/2004-03/2008 Napoli
 - 03/2008-09/2008 Battipaglia
 - 09/2008-07/2009 Padova
 - 08/2009-07/2010 Leiden
-- 02/01/2015 Moved to Portsmouth
+- ~09/2010-19/09/2014 Southampton
+- 19/09/2014-02/01/2015 Battipaglia
+- 02/01/2015-~ Portsmouth
 
 #Job
 - 29/11/2014 Accepted Path Intelligence job offer
@@ -37,7 +60,8 @@
 - 10/10/2015 Woolston beer festival
 
 #Personal
-- 05/05/2001 That day the world was happy
-- 28/06/2012 That day the world was sad
+<!-- - 05/05/2001 That day the world was happy -->
 - 05/05/2001-28/06/2012 M
-- 29/06/2012-02/07/2012 Toccata and fugue in Italy
+<!-- - 28/06/2012 That day the world was sad -->
+<!-- - 29/06/2012-02/07/2012 Toccata and fugue in Italy -->
+- 
