@@ -51,7 +51,7 @@
 
 #Job
 - 29/11/2014 Accepted Path Intelligence job offer
-- 05/01/2015-~ Started job at [Path Intelligence](http://www.pathintelligence.com "Path Intelligence")
+- 05/01/2015-~ Job at [Path Intelligence](http://www.pathintelligence.com "Path Intelligence")
 
 #Portsmouth Life
 - 05/05/2015 Southampton beer festival
