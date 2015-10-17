@@ -12,22 +12,23 @@
 #Universities
 - 10/2004-03/2008 Bachelor Maths Napoli
 - 26/03/2008 Graduation in Maths 110/110 cum laude, Napoli
-- ~09/2008-~07/2009 First year Master Maths Padova
-- ~09/2009-~07/2010 Second year Master Maths Leiden
-- 14/07/2010 Graduation Master Maths, Bourdeaux
+- 01/09/2008-30/07/2009 First year Master Maths Padova
+- 30/08/2009-10/07/2010 Second year Master Maths, ALGANT, Leiden
+- 14/07/2010 Graduation Master Maths, ALGANT, Bourdeaux
+- 01/09/2014-18/09/2015 PhD Pure Maths, Group Theory, Southampton
 - 28/03/2014 PhD viva
 - 21/07/2014 PhD graduation, Southampton
 
 #Journey Uni
 - 20/06/2009-29/06/2009 Israel
-- ~07/2010 Bourdeaux
-- ~06/2011 Aberdeen (talk)
-- ~07/2011 Milano
-- ~07/2012 Lausanne (talk)
-- ~04/2013 London
-- ~07/2013 Manchester (talk)
-- ~08/2013 St.Andrews (talk)
-- ~09/2013 Cambridge
+- 15/07/2010 Bourdeaux
+- 15/06/2011 Aberdeen (talk)
+- 15/07/2011 Milano
+- 15/07/2012 Lausanne (talk)
+- 15/04/2013 London
+- 15/07/2013 Manchester (talk)
+- 15/08/2013 St.Andrews (talk)
+- 15/09/2013 Cambridge
 
 #Journey
 - 10/04/2004-20/04/2004 Croatia
@@ -44,7 +45,7 @@
 - 03/2008-09/2008 Battipaglia
 - 09/2008-07/2009 Padova
 - 08/2009-07/2010 Leiden
-- ~09/2010-19/09/2014 Southampton
+- 15/09/2010-19/09/2014 Southampton
 - 19/09/2014-02/01/2015 Battipaglia
 - 02/01/2015-~ Portsmouth
 
