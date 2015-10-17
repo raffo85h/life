@@ -29,12 +29,12 @@
 - ~08/2013 St.Andrews (talk)
 - ~09/2013 Cambridge
 
-<!-- #Journey
+#Journey
 - Croatia
 - London
 - Malaga
 - Hammamet
- -->
+
 #Religion
 - 06/07/2012 excommunicated lata sententia
 
@@ -60,8 +60,7 @@
 - 10/10/2015 Woolston beer festival
 
 #Personal
-<!-- - 05/05/2001 That day the world was happy -->
+- 05/05/2001 First
 - 05/05/2001-28/06/2012 M
-<!-- - 28/06/2012 That day the world was sad -->
-<!-- - 29/06/2012-02/07/2012 Toccata and fugue in Italy -->
-- 
+- 28/06/2012 Last
+- 29/06/2012-02/07/2012 Italy
