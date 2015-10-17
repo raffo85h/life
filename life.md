@@ -53,10 +53,10 @@
 - 05/01/2015-~ Started job at [Path Intelligence](http://www.pathintelligence.com "Path Intelligence")
 
 #Portsmouth Life
-- 18/10/2015 Matt's wedding in Poole
-- 19/10/2015-28/07/2015 Summer's holiday in Italy
 - 05/05/2015 Southampton beer festival
 - 16/05/2015 Portsmouth beer festival
+- 18/07/2015 Matt's wedding in Poole
+- 19/07/2015-28/07/2015 Summer's holiday in Italy
 - 10/10/2015 Woolston beer festival
 
 #Personal
