@@ -11,12 +11,12 @@
 
 #Universities
 - 10/2004-03/2008 Bachelor Maths Napoli
-- 26/03/2008 Graduation in Maths 110/110 cum laude - Napoli
+- 26/03/2008 Graduation in Maths 110/110 cum laude, Napoli
 - ~09/2008-~07/2009 First year Master Maths Padova
 - ~09/2009-~07/2010 Second year Master Maths Leiden
-- 14/07/2010 Graduation Master Maths - Bourdeaux
+- 14/07/2010 Graduation Master Maths, Bourdeaux
 - 28/03/2014 PhD viva
-- 21/07/2014 PhD graduation - Southampton
+- 21/07/2014 PhD graduation, Southampton
 
 #Journey Uni
 - 20/06/2009-29/06/2009 Israel
