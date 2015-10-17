@@ -30,10 +30,10 @@
 - ~09/2013 Cambridge
 
 #Journey
-- Croatia
-- London
-- Malaga
-- Hammamet
+- ~04/2004 Croatia
+- ~05/2008 London
+- ~08/2009 Malaga
+- ~09/2011 Hammamet
 
 #Religion
 - 06/07/2012 excommunicated lata sententia
