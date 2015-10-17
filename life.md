@@ -37,7 +37,7 @@
 - 02/09/2011-12/09/2011 Hammamet
 
 #Religion
-- 06/07/2012 excommunicated lata sententia
+- 06/07/2012 Excommunicated lata sententia
 
 #Cities
 - 19/09/2014-01/01/2015 Italy 
