@@ -15,7 +15,7 @@
 - 01/09/2008-30/07/2009 First year Master Maths Padova
 - 30/08/2009-10/07/2010 Second year Master Maths, ALGANT, Leiden
 - 14/07/2010 Graduation Master Maths, ALGANT, Bourdeaux
-- 01/09/2014-18/09/2015 PhD Pure Maths, Group Theory, Southampton
+- 01/09/2010-18/09/2015 PhD Pure Maths, Group Theory, Southampton
 - 28/03/2014 PhD viva
 - 21/07/2014 PhD graduation, Southampton
 
@@ -56,7 +56,6 @@
 #Portsmouth Life
 - 05/05/2015 Southampton beer festival
 - 16/05/2015 Portsmouth beer festival
-- 18/07/2015 Matt's wedding in Poole
 - 19/07/2015-28/07/2015 Summer's holiday in Italy
 - 10/10/2015 Woolston beer festival
 
