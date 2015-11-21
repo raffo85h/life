@@ -15,7 +15,7 @@
 - 01/09/2008-30/07/2009 First year Master Maths Padova
 - 30/08/2009-10/07/2010 Second year Master Maths, ALGANT, Leiden
 - 14/07/2010 Graduation Master Maths, ALGANT, Bourdeaux
-- 01/09/2010-18/09/2014 PhD Pure Maths, Group Theory, Southampton
+- 01/09/2010-21/07/2014 PhD Pure Maths, Group Theory, Southampton
 - 28/03/2014 PhD viva
 - 21/07/2014 PhD graduation, Southampton
 
@@ -60,7 +60,5 @@
 - 10/10/2015 Woolston beer festival
 
 #Personal
-- 05/05/2001 First
 - 05/05/2001-28/06/2012 M
-- 28/06/2012 Last
 - 29/06/2012-02/07/2012 Italy
