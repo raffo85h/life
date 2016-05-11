@@ -35,9 +35,10 @@
 - 10/05/2008-20/05/2008 London
 - 20/08/2009-28/08/2009 Malaga
 - 02/09/2011-12/09/2011 Hammamet
+- 25/03/2016-29/03/2016 Paris
 
 #Religion
-- 06/07/2012 Excommunicated lata sententia
+- 06/07/2012 Excommunicated latae sententia
 
 #Cities
 - 19/09/2014-01/01/2015 Italy 
@@ -51,7 +52,11 @@
 
 #Job
 - 29/11/2014 Accepted Path Intelligence job offer
-- 05/01/2015-~ Job at [Path Intelligence](http://www.pathintelligence.com "Path Intelligence")
+- 05/01/2015-~ RF/DSP Developert at [Path Intelligence](http://www.pathintelligence.com "Path Intelligence")
+- 06/01/2016-~ Data Scientist at [Flight Data Services](http://www.flightdataservices.com)
+
+#Talks
+- 08/05/2016 PyData London: [Python flying at 40,000 feet](https://github.com/raino01r/pydata_london_2016)
 
 #Portsmouth Life
 - 05/05/2015 Southampton beer festival
