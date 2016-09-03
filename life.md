@@ -61,13 +61,6 @@
 #Talks
 - 08/05/2016 PyData London: [Python flying at 40,000 feet](https://github.com/raino01r/pydata_london_2016)
 
-<!-- #Portsmouth Life
-- 05/05/2015 Southampton beer festival
-- 16/05/2015 Portsmouth beer festival
-- 19/07/2015-28/07/2015 Summer's holiday in Italy
-- 10/10/2015 Woolston beer festival
- -->
 #Personal
-<!-- - 05/05/2001-28/06/2012 M -->
 - 29/06/2012-02/07/2012 Italy
 - 31/10/2015-~ Adriana
