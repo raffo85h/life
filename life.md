@@ -36,6 +36,9 @@
 - 20/08/2009-28/08/2009 Malaga
 - 02/09/2011-12/09/2011 Hammamet
 - 25/03/2016-29/03/2016 Paris
+- 23/06/2016-28/06/2016 Italy
+- 13/08/2016-20/08/2016 Spain
+- 01/10/2016-08/10/2016 Italy
 
 #Religion
 - 06/07/2012 Excommunicated latae sententia
@@ -58,12 +61,13 @@
 #Talks
 - 08/05/2016 PyData London: [Python flying at 40,000 feet](https://github.com/raino01r/pydata_london_2016)
 
-#Portsmouth Life
+<!-- #Portsmouth Life
 - 05/05/2015 Southampton beer festival
 - 16/05/2015 Portsmouth beer festival
 - 19/07/2015-28/07/2015 Summer's holiday in Italy
 - 10/10/2015 Woolston beer festival
-
+ -->
 #Personal
-[//]: <> (- 05/05/2001-28/06/2012 M)
+<!-- - 05/05/2001-28/06/2012 M -->
 - 29/06/2012-02/07/2012 Italy
+- 31/10/2015-~ Adriana
